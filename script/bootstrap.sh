@@ -43,6 +43,10 @@ tryInstall fzf
 #tryInstall glances
 tryInstall traceroute
 
+#tryInstall kde-plasma-desktop
+#tryInstall open-vm-tools
+#tryInstall open-vm-tools-desktop
+
 hint 'sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"'
 hint "setup ohmyzsh"
 
